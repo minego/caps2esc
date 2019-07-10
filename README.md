@@ -1,5 +1,10 @@
 # caps2esc
 
+## Fork for ~
+This is a fork of https://gitlab.com/interception/linux/plugins/caps2esc which
+modifies the behavior so that hitting the escape key acts like the ` key so it
+can send ` and ~ so that this is usable with my 60% keyboard.
+
 _Transforming the most useless key **ever** in the most useful one._
 <sub>_For vi/Vim/NeoVim addicts at least_.</sub>
 
